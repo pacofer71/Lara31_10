@@ -12,11 +12,15 @@ class LibroController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
     public function index()
     {
         //
     }
-
+    public function ver()
+    {
+        //
+    }
     /**
      * Show the form for creating a new resource.
      *
